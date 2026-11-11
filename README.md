@@ -21,3 +21,4 @@ Official website for **Diora Salon & Spa** — A luxury unisex spa and salon loc
 - **JavaScript** (Filter tabs, image lightbox, FAQ accordion, WhatsApp appointment form)
 - **Trending Fonts:** Playfair Display, Plus Jakarta Sans, Cinzel (Google Fonts)
 - **FontAwesome 6** Icons
+
